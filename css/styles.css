@@ -1,0 +1,72 @@
+
+
+header{
+	background-color: #495371;
+	font-family: 'Sacramento', cursive;
+	font-size: 1.625rem;
+
+	
+}
+#name{
+	color: white;
+
+}
+#profession{
+	color: white;
+}
+body h3{
+	color: #495371;
+	font-family: 'Montserrat', sans-serif;
+}
+
+body hr{
+	
+    border-style: solid;
+    background-color: #495371;
+    border-color: #495371;
+}
+
+
+.name{
+	margin-left: 100px;
+}
+#nam{
+	position: relative;
+	left: 200px;
+}
+p{
+	font-size: 25	px;
+}
+
+footer{
+	background-color: #495371;
+	color: white;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+footer h3{
+	color: white;
+	padding-left: 10px;
+	text-align: center;
+}
+
+
+
+/*css intermediate styling*/
+
+.soc{
+	background-color: #495371; 
+	text-align: center;
+}
+
+.Social {
+	color : white;
+}
+
+a{
+	color: #051367;
+	text-decoration:none;
+	font-family: 'Merriweather', serif;
+}
+
