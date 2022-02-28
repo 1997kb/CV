@@ -1,6 +1,19 @@
+body{
+	margin-left: 3px;
+}
 
 
-header{
+
+img{
+	width: 200px;
+    height: 200px;
+    padding-top: 0px;
+    margin-top: 35px;
+    margin-left: 250px;
+    margin-bottom: 35px;
+}
+
+.row{
 	background-color: #495371;
 	font-family: 'Sacramento', cursive;
 	font-size: 1.625rem;
@@ -15,15 +28,17 @@ header{
 	color: white;
 }
 body h3{
+	font-size: 1.17rem;
 	color: #495371;
 	font-family: 'Montserrat', sans-serif;
 }
 
-body hr{
+ hr{
 	
     border-style: solid;
     background-color: #495371;
     border-color: #495371;
+    height: 2px;
 }
 
 
